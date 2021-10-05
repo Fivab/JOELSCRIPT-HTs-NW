@@ -1,0 +1,37 @@
+#logo {
+    width: 120px;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h4 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h5 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h6 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-family:'Courier New', Courier, monospace;
+}
+
+#BETA {
+    text-align: left;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
